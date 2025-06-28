@@ -8,6 +8,7 @@ Project Overview
 Dataset
 Usage
 
+
   
 Project Overview
 The aim of this project is to perform a comprehensive analysis of pizza sales, uncovering trends and insights. By leveraging data on orders, pizza types, and order details, the project provides valuable insights that can help optimize inventory, understand customer preferences, and improve business performance.
